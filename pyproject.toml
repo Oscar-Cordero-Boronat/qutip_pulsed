@@ -1,7 +1,7 @@
 [project]
-name = "sciqis"
+name = "pulsed-squeezing"
 version = "0.1.0"
-description = "Base environment for SCIQIS tutorials"
+description = "Base environment for Pulsed Squeezing Package"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
